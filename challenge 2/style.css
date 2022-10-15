@@ -1,0 +1,13 @@
+/* Challenge style goes here */
+html {
+    font-size: 16px;
+}
+.heading {
+    font-size: 3em;
+}
+h2 {
+    font-size: 2em;
+}
+header {
+    width: 80%;
+}
